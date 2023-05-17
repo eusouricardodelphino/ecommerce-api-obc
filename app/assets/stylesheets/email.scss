@@ -1,0 +1,23 @@
+@import "foundation-emails";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #10163a;
+}
+
+div {
+  background-color: #262c49;
+  padding: 1em;
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+p {
+  color:#fff;
+  font-size: 1.1em;
+}
