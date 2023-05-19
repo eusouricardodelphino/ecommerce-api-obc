@@ -14,6 +14,10 @@ gem 'puma', '~> 4.1'
 
 gem 'devise_token_auth', '~> 1.1.4'
 
+# Rendering
+
+gem 'jbuilder', '~> 2.10.1'
+
 # CORS 
 
 gem 'rack-cors', '~> 1.1.1'
